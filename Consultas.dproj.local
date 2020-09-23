@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/09/14 19:28:56.136,=C:\Users\Julia Dar'c\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/09/14 20:51:35.669,C:\Users\Julia Dar'c\Desktop\DELPHI\Consultas\unitPrincipal.pas=C:\Users\Julia Dar'c\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/09/14 20:51:35.669,C:\Users\Julia Dar'c\Desktop\DELPHI\Consultas\unitPrincipal.dfm=C:\Users\Julia Dar'c\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2020/09/14 20:51:40.127,C:\Users\Julia Dar'c\Desktop\DELPHI\Consultas\Consultas.dproj=C:\Users\Julia Dar'c\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2020/09/14 21:00:25.172,=C:\Users\Julia Dar'c\Desktop\DELPHI\Consultas\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 21:00:35.658,C:\Users\Julia Dar'c\Desktop\DELPHI\Consultas\unitDM.dfm=C:\Users\Julia Dar'c\Desktop\DELPHI\Consultas\Unit1.dfm</Transaction>
+    <Transaction>2020/09/14 21:00:35.658,C:\Users\Julia Dar'c\Desktop\DELPHI\Consultas\unitDM.pas=C:\Users\Julia Dar'c\Desktop\DELPHI\Consultas\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
